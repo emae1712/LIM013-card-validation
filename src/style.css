@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+}
+.error{
+    border: 2px solid red;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background: whitesmoke;
+}
+
+main{
+    background: #FFFFFF;
+    width: 60%; /*ancho de formulario*/
+    padding: 30px;
+    margin: auto;
+    margin-bottom: 3%;
+    border-radius: 2.5%;
+    border: 2px solid darkcyan;
+}
+
+.formulario {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /*crea dos columnas*/
+    gap: 30px; /*espacio entre casillas*/
+}
+
+.label{
+    display: block; /*la etiqueta abarca 100%*/
+    font-weight: 700; /*negrita*/
+    padding: 2px;
+    cursor: pointer;
+}
+
+input[type='text'],[type='email'],[type='tel']{
+    width: 100%; /*casilla abarque todo el espacio*/
+    height: 40px; /*altura y altura de linea tienen el mismo valor para que vaya centrado*/
+    line-height: 40px;
+    padding: 0px 10px 0px 10px;
+}
+
+input{
+    border-radius: 5px; /*borde de la casilla*/
+    border: solid transparent; /*para que no tenga borde*/
+    border-bottom: 2px solid darkcyan; /*borde inferior después de border*/
+}
+
+.boton,.direccion,h2{
+    grid-column: span 2;
+} 
+
+.boton{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.boton1,.boton2{
+    height: 60px; /*altura y altura de linea tienen el mismo valor para que vaya centrado*/
+    line-height: 50px;
+    width: 35%;
+    background: darkcyan;
+    color: white;
+    border-radius: 4%;
+    border: none;
+    cursor: pointer;
+}
+
+.boton1:hover,
+.boton2:hover{
+    background-color: black;
+    color: white;
+}
+
+input:valid:required {
+    border: 2px solid darkcyan;
+  }
+
+input:disabled{
+    border: 2px solid darkcyan;
+}
+
+
+
+/*footer*/
+footer{
+    width: 100%;
+    background: lightseagreen;
+    color: white;
+    position: absolute;
+    font-family: sans-serif;
+}
+
+.content{
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+    padding: 20px;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.row{
+    margin-top: 5%;
+    display: flex;
+}
+.row img{
+    width: 36px;
+    height: 36px;
+}
+.row label{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.firma{
+        background-color: darkcyan;
+        text-align: center;
+        color: rgb(237, 243, 248);
+        position: absolute;
+        width: 100%;
+}

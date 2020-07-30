@@ -4,6 +4,14 @@
 .error{
     border: 2px solid red;
 }
+
+.display {
+    display: block;
+  }
+.hide {
+    display: none;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     background: whitesmoke;
@@ -43,6 +51,7 @@ input{
     border-radius: 5px; /*borde de la casilla*/
     border: solid transparent; /*para que no tenga borde*/
     border-bottom: 2px solid darkcyan; /*borde inferior después de border*/
+    outline: none;
 }
 
 .boton,.direccion,h2{
@@ -51,23 +60,27 @@ input{
 
 .boton{
     display: flex;
-    flex-direction: column;
-    align-items: flex-end;
+    width: 100%;
+    justify-content: center;
 }
 
-.boton1,.boton2{
-    height: 60px; /*altura y altura de linea tienen el mismo valor para que vaya centrado*/
-    line-height: 50px;
+
+.boton1{
+    height: 60px; /*altura y altura de linea tienen el mismo valor para que vaya centrado, pero como e texto es largo line se puso la mitad*/
+    line-height: 20px;
     width: 35%;
     background: darkcyan;
     color: white;
     border-radius: 4%;
     border: none;
+    font-weight: bold;
+    font-size: 16px;
     cursor: pointer;
+    word-wrap: break-word;
+    margin: 20px;
 }
 
-.boton1:hover,
-.boton2:hover{
+.boton1:hover{
     background-color: black;
     color: white;
 }

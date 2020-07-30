@@ -8,7 +8,7 @@
   <body>
     <main>
     <!-Primera vista -->
-    <div id="datos" class="view" >
+    <div id="datos" class="display view" >
       <form id= "formulario" class="formulario">
       <h2>Datos para la entrega</h2>
 
@@ -39,7 +39,7 @@
         <input type="text" id="direccion" placeholder="Ingrese su dirección" required />
         </div>
       
-     <h2>Forma de pago</h2>         
+     <h2>Forma de pago</h2>  
       <!--Tipo de tarjeta-->
         <div>
         <label><input type="radio" name="radioboton" value="V" required>Visa</label>
@@ -50,8 +50,8 @@
         <div>
         <label for="tarjeta" class='label'>Número de tarjeta</label><br>
         <input type="tel" id="tarjeta" placeholder="Ejem. 4485715860868875" name="tarjeta" pattern="[0-9]{16}" required/>
-        <p id="tarjetavalida"></p>
         <p id="luhm"></p>
+        <p id="maskText"></p>
         </div>
       <!--Importe-->
         <div>
@@ -62,7 +62,9 @@
       <!--Nombre del titular-->
         <div>
         <label for="titular" class='label'>Nombre del titular  <small>*Como figura en la tarjeta</small></label><br>
-        <input type="text" id="titular" placeholder="Como figura en la tarjeta" name="titular" required />
+        <input type="text" id="titular" placeholder="Como figura en la tarjeta" name="titular" disabled required />
+        <label for="check">Editar</label>
+        <input type="checkbox" id="check" >
         </div>
 
       <!--Fecha de vencimiento y código-->
@@ -84,17 +86,26 @@
     </div>
 
     <!-Segunda vista -->
-    <div id="gracias" class="view"  style = 'display:none;'>
-      <h2>¡Gracias por su compra!</h2>
+    <div id="gracias" class="hide view" >
+      <h2>Por favor verifique si los datos son correctos</h2>
 
-      <form class="formulario">
+      <form >
       <!--Detalles del producto-->
       
-        <label for="producto">Detalles del producto</label>
-        <p id="detalles"></p>
-        <input type="text" id="producto" name="producto" required />
+        <label for="producto"><strong>Detalles del producto</strong></label><br>
+        <p>Este pequeño formulario será enviado al correo indicado.</p>
+        <ul>
+        
+        <li><p id="cardResult"></p></li>
+        <li><p id="nameResult"></p></li>
+        <li><p id="emailResult"></p></li>
+        <li><p id="dateResult"></p></li>
+        <li><p id="adressResult"></p></li>
+      
+      </ul>
       <div class="boton">
-      <button type="submit" id="enviar" class= "boton2">ENVIAR</button>
+      <button type="submit" id="botonRegresar" class= "boton1">REGRESAR</button><br>
+      <button type="submit" id="botonEnviar" class= "boton1">ENVIAR</button>
       </div>
       </form>
     </div>

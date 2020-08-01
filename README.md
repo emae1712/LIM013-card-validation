@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" height="200" src="ezgif.com-video-to-gif.gif">
+</p>
+
 # Tarjeta de crédito válida
 
 ## Índice

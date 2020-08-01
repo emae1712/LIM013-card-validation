@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="300" src="ezgif.com-video-to-gif.gif">
+  <img width="600" height="250" src="ezgif.com-video-to-gif.gif">
 </p>
 
 # Tarjeta de crédito válida

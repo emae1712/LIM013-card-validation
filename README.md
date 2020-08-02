@@ -77,9 +77,10 @@ En el editor de texto [Code](https://code.visualstudio.com/).
 
 A continuación presento algunas fuentes que me inspiraron para llevar a cabo el presente proyecto.
 
+### Material informativo sobre el COVID-19
 [![minsa coronavirus](https://i.ibb.co/ZH96Qkq/campaign-coronavirus-covid-2019.jpg)](https://www.gob.pe/institucion/minsa/campa%C3%B1as/699-conoce-que-es-el-coronavirus-covid-19)
 
-**Sala Situacional COVID-19 Perú - Ministerio de Salud**
+### **Sala Situacional COVID-19 Perú - Ministerio de Salud**
 [![minsa sala_situacional](https://i.ibb.co/kyxRmnt/salasituacional-covid19-minsa-peru-2020.jpg)](https://covid19.minsa.gob.pe/sala_situacional.asp)
 
 [Link](https://covid19.minsa.gob.pe/sala_situacional.asp)

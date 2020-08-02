@@ -17,20 +17,18 @@
 
 El presente proyecto se realizó con la finalidad de recrear una página web que permita a los usuarios realizar compras online de Kits de higiene y protección ante el nuevo Covid-19. A partir de la coyuntura del presente año se ha evidenciado que el uso de mascarillas, alcohol, útiles de aseo, entre otros, es vital para evitar la propagación del virus. 
 
-El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el Estado como vitales para enfrentar esta situación que afecta a la población a nivel mundial.
+El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el Estado como vitales para enfrentar esta situación que afecta a la población mundial.
 
 ## 2. 🚀Comencemos
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
-* La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito usando el [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn)*)
+* La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito)
 * Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875
 * El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.📝
 * Eso es todo **¡Gracias por su compra!** ⭐️
 
-El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
-también llamado algoritmo de módulo 10, es un método de suma de verificación,
-se utiliza para validar números de identificación; tales como el IMEI de los
+>Para el proceso de validación de **Tarjeta de crédito** se usó e [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn), también llamado algoritmo de módulo 10, es un método de suma de verificación, se utiliza para validar números de identificación; tales como el IMEI de los
 celulares, tarjetas de crédito, etc.
 
 Este algoritmo es simple. Obtenemos la reversa del número a verificar (que
@@ -38,8 +36,6 @@ solamente contiene dígitos [0-9]); a todos los números que ocupan una posició
 par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
-
-![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
 
 
@@ -70,7 +66,7 @@ como tecnologías.
 * [ ] Uso de funciones (parámetros | argumentos | valor de retorno)
 * [ ] Declaración correcta de variables (const & let)
 
-### Testing
+### Testing>
 
 * [ ] [Testeo unitario.](https://jestjs.io/docs/es-ES/getting-started)
 

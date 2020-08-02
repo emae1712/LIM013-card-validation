@@ -84,3 +84,6 @@ A continuación presento algunas fuentes que me inspiraron para llevar a cabo el
 [![minsa sala_situacional](https://i.ibb.co/kyxRmnt/salasituacional-covid19-minsa-peru-2020.jpg)](https://covid19.minsa.gob.pe/sala_situacional.asp)
 
 [Link](https://covid19.minsa.gob.pe/sala_situacional.asp)
+
+[![hopkins_covid_mundo](https://i.ibb.co/m0f3t4x/Dashboard-mundo-covid.jpg)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+[Link](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)

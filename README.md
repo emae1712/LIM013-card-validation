@@ -6,7 +6,7 @@
 ## Índice
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
-* [2. ¿Cómo funciona?](#2-como-funciona)
+* [2. Comencemos](#2-comencemos)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
@@ -19,14 +19,14 @@ El presente proyecto se realizó con la finalidad de recrear una página web que
 
 El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el Estado como vitales para enfrentar esta situación que afecta a la población a nivel mundial.
 
-## 2. 🤔¿Cómo funciona?
+## 2. 🚀Comencemos
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito usando el [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn)*)
-* Deberás completar todos los campos indicados para poder seguir con el proceso.
+* Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875
-* El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.
-* Eso es todo <p style="color:cyan">¡Gracias por su compra!</p>
+* El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.📝
+* Eso es todo **¡Gracias por su compra!** ⭐️
 
 El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
 también llamado algoritmo de módulo 10, es un método de suma de verificación,

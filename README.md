@@ -19,7 +19,7 @@ El presente proyecto se realizó con la finalidad de recrear una página web que
 
 El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el Estado como vitales para enfrentar esta situación que afecta a la población a nivel mundial.
 
-## 2. 🤔¿Cómo funciona?
+## 2. 🤔Cómo funciona?
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito usando el [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn)*)

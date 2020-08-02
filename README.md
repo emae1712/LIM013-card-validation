@@ -10,7 +10,7 @@
 * [2. Comencemos](#2-comencemos)
 * [3. Procedimiento](#3-procedimiento)
 * [4. Herramientas usadas](#4-herramientas-usadas)
-* [5. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
+* [5. Fuentes](#5-fuentes)
 
 ***
 
@@ -44,7 +44,7 @@ Te invito a que intentes con números al azar a ver que resulta 🤓
 
 ## 3. 💻Procedimiento
 
-### - Público objetivo 👯
+### - Público objetivo 👨‍👩‍👧‍👦
 Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y al presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponer al usuario a interminables colas.
 
 >PROTOTIPO DE PAPEL
@@ -66,64 +66,20 @@ Se escogieron colores claros que representen el área de medicina, dando un aspe
 ```
 En el editor de texto [Code](https://code.visualstudio.com/).
 
-🛠️Las nuevas herramientas usadas que sirvieron de complemento para el presente proyeto fueron:
+🛠️Las nuevas herramientas usadas que sirvieron de complemento para el presente proyecto fueron:
 
    [UNIX Shell](https://github.com/Laboratoria/bootcamp/tree/master/topics/shell)<br>
    [git](https://github.com/Laboratoria/bootcamp/tree/master/topics/scm/01-git) <br>
    [Node.js](https://nodejs.org/)<br>
    Github <br>
 
-👋🤔📫⚙️🛠️
+## 5. 📚Fuentes
 
+A continuación presento algunas fuentes que me inspiraron para llevar a cabo el presente proyecto.
 
-### Recursos y temas relacionados
+[![minsa coronavirus](https://i.ibb.co/ZH96Qkq/campaign-coronavirus-covid-2019.jpg)](https://www.gob.pe/institucion/minsa/campa%C3%B1as/699-conoce-que-es-el-coronavirus-covid-19)
 
-A continuación un video de Michelle que te lleva a través del algoritmo de Luhn
-y un par de cosas más que debes saber para resolver este proyecto. ¡Escúchala
-con detenimiento y sigue sus consejos! :)
+**Sala Situacional COVID-19 Perú - Ministerio de Salud**
+[![minsa sala_situacional](https://i.ibb.co/kyxRmnt/salasituacional-covid19-minsa-peru-2020.jpg)](https://covid19.minsa.gob.pe/sala_situacional.asp)
 
-[![tips credit card](https://img.youtube.com/vi/f0zL6Ot9y_w/0.jpg)](https://www.youtube.com/watch?v=f0zL6Ot9y_w)
-
-[Link](https://www.youtube.com/watch?v=f0zL6Ot9y_w)
-
-También una metodología para empezar a desarrollar tareas con JavaScript:
-
-[![Resolución de problemas con JavaScript](http://i3.ytimg.com/vi/lYfEmhLmu7A/hqdefault.jpg)](https://www.youtube.com/watch?v=lYfEmhLmu7A)
-
-[Link](https://www.youtube.com/watch?v=lYfEmhLmu7A)
-
-Terminal y shell de UNIX:
-
-[![Playlist de Terminal y shell de UNIX](https://img.youtube.com/vi/GB35Eyb-J4c/0.jpg)](https://www.youtube.com/playlist?list=PLiAEe0-R7u8nGH5TEHfSTeDNIvjZFe_Yd)
-
-[Link](https://www.youtube.com/playlist?list=PLiAEe0-R7u8nGH5TEHfSTeDNIvjZFe_Yd)
-
-Control de versiones y trabajo colaborativo con Git y GitHub:
-
-[![Playlist de control de versiones y trabajo colaborativo](https://img.youtube.com/vi/F1EoBbvhaqU/0.jpg)](https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV)
-
-[Link](https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV)
-
-Diseño de experiencia de usuario (User Experience Design):
-
-* Ideación
-* Prototipado (sketching)
-* Testeo e Iteración
-
-Desarrollo Front-end:
-
-* Valores
-* Tipos
-* Variables
-* Control de flujo
-* Tests unitarios
-* [Documentación de NPM](https://docs.npmjs.com/)
-
-Organización del Trabajo:
-
-* [Metodologías Ágiles](https://www.youtube.com/watch?v=v3fLx7VHxGM)
-* [Scrum en menos de 2 minutos](https://www.youtube.com/watch?v=TRcReyRYIMg)
-* [Scrum en Detalle](https://www.youtube.com/watch?v=nOlwF3HRrAY&t=297s). No
-  esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a
-  poco a lo largo del -_bootcamp_.
-* [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
+[Link](https://covid19.minsa.gob.pe/sala_situacional.asp)

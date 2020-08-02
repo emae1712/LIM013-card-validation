@@ -9,7 +9,7 @@
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [2. Comencemos](#2-comencemos)
 * [3. Procedimiento](#3-procedimiento)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+* [4. Herramientas usadas](#4-herramientas-usadas)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 
 ***
@@ -45,18 +45,18 @@ Te invito a que intentes con números al azar a ver que resulta 🤓
 ## 3. 💻Procedimiento
 
 ### - Público objetivo 👯
-Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponerse a interminables colas.
+Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y al presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponer al usuario a interminables colas.
 
 >PROTOTIPO DE PAPEL
 
 ### - *_Feedback_* 💬
-Al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**. Proceso que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.
+Al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**. Prototipo que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.
 
 Se escogieron colores claros que representen el área de medicina, dando un aspecto amigable y comprometida con la salud de las personas.
 
 >PROTOTIPO FINAL
 
-
+## 4. 🛠️Herramientas usadas
 
 👋🤔📫⚡⚙️🛠️
 
@@ -73,15 +73,6 @@ como tecnologías.
 * [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía)
 
 
-
-### Definición del producto
-
-En el `README.md`, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
-para definir el producto final a nivel de experiencia y de interfaz.
-
-* Quiénes son los principales usuarios de producto.
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.
 
 ### Interfaz de usuario (UI)
 
@@ -136,31 +127,7 @@ los colores, tipo de fuente, etc a usar.
 
 A continuación describimos los archivos que utilizarás:
 
-##### `src/index.html`
 
-En este archivo va el contenido que se mostrará al usuario (esqueleto HTML).
-Encontrarás 3 etiquetas iniciales, las cuales si deseas puedes borrar y empezar
-de cero:
-
-* `<header>`: encabezado de tu proyecto.
-* `<main>`: contenido principal de tu proyecto.
-* `<footer>`: pie de página de tu proyecto.
-
-##### `src/style.css`
-
-Este archivo debe contener las reglas de estilo. Queremos que escribas tus
-propias reglas, por eso NO está permitido el uso de frameworks de CSS
-(Bootstrap, materialize, etc).
-
-#### Funcionalmente (JavaScript - pruebas unitarias)
-
-* La lógica del proyecto debe estar implementada completamente en JavaScript.
-* En este proyecto NO está permitido usar librerías o frameworks, sólo JavaScript
-puro también conocido como Vanilla JavaScript.
-* No se debe utilizar la _pseudo-variable_ `this`.
-
-Vas a tener 2 archivos JavaScript separando responsabilidades, a continuación
-indicamos qué harás en cada archivo:
 
 ##### `src/validator.js`
 
@@ -191,25 +158,6 @@ cuando el `string` sea de menor longitud.
     maskify(               '')  ===                ''
     ```
 
-##### `src/index.js`
-
-Acá escribirás todo el código que tenga que ver con la interacción del DOM
-(seleccionar, actualizar y manipular elementos del DOM y eventos).
-Es decir, en este archivo deberás invocar las funciones `isValid` y `maskify`
-según sea necesario para actualizar el resultado en la pantalla (UI).
-
-##### `test/validator.spec.js`
-
-En este archivo tendrás que completar las pruebas unitarias de las funciones
-`validator.isValid(creditCardNumber)` y `validator.maskify(creditCardNumber)`
-implementadas en `validator.js` utilizando [Jest](https://jestjs.io/es-ES/).
-Tus pruebas unitarias deben dar un 70% en _coverage_ (cobertura),
-_statements_ (sentencias), _functions_ (funciones) y _lines_ (líneas); y un
-mínimo del 50% de _branches_ (ramas).
-
-***
-
-## 6. Pistas, tips y lecturas complementarias
 
 ### Primeros pasos
 

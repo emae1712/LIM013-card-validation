@@ -1,13 +1,15 @@
 <img align="center" alt="GIF" src= "https://j.gifs.com/91MpD4.gif"/>
 
 
-# Primer proyecto: SafeDELIVERY 👩🏾‍💻 
+# SafeDELIVERY 👩🏾‍💻 
+>Aplicación web de validación de Tarjeta de crédito.
 
 ## Índice
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [2. Comencemos](#2-comencemos)
-* [4. Consideraciones generales](#4-consideraciones-generales)
+* [3. Procedimiento](#3-procedimiento)
+    [-Público objetico](#publico_objetivo)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 
@@ -28,7 +30,7 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 * El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.📝
 * Eso es todo **¡Gracias por su compra!** ⭐️🤝
 
->Para el proceso de validación de **Tarjeta de crédito** se usó e [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn), también llamado algoritmo de módulo 10, es un método de suma de verificación, se utiliza para validar números de identificación; tales como el IMEI de los
+>Para el proceso de validación de **Tarjeta de crédito** se usó el [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn), también llamado algoritmo de módulo 10, es un método de suma de verificación, se utiliza para validar números de identificación; tales como el IMEI de los
 celulares, tarjetas de crédito, etc.
 
 >Este algoritmo es simple. Obtenemos la reversa del número a verificar (que
@@ -39,49 +41,17 @@ la suma de sus dígitos finales es un múltiplo de 10.
 
 Te invito a que intentes con números al azar a ver que resulta 🤓
 
+## 3. 💻Procedimiento
 
-👋🤔📫
-## 3. Objetivos de aprendizaje
+  - Público objetivo
+
+👋🤔📫⚡⚙️💬🛠️
+
 
 Aprenderás a construir una aplicación web que interactuará
 con lx usuarix final a través del navegador, utilizando HTML, CSS y JavaScript
 como tecnologías.
 
-### HTML y CSS
-
-* [ ] [Uso de HTML semántico.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
-* [ ] Uso de selectores de CSS.
-* [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
-
-### DOM
-
-* [ ] Uso de selectores del DOM.
-* [ ] Manejo de eventos del DOM.
-* [ ] [Manipulación dinámica del DOM.](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
-(appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
-
-### JavaScript
-
-* [ ] Manipulación de strings.
-* [ ] Uso de condicionales (if-else | switch | operador ternario)
-* [ ] Uso de bucles (for | for..in | for..of | while)
-* [ ] Uso de funciones (parámetros | argumentos | valor de retorno)
-* [ ] Declaración correcta de variables (const & let)*
-
-### Testing>
-
-* [ ] [Testeo unitario.](https://jestjs.io/docs/es-ES/getting-started)
-
-### Estructura del código y guía de estilo
-
-* [ ] Organizar y dividir el código en módulos (Modularización)
-* [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica)
-* [ ] Uso de linter (ESLINT)
-
-### Git y GitHub
-
-* [ ] Uso de comandos de git (add | commit | pull | status | push)
-* [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages)
 
 ### UX
 
@@ -89,17 +59,7 @@ como tecnologías.
 * [ ] Crear prototipos para obtener feedback e iterar.
 * [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía)
 
-## 4. Consideraciones generales
 
-* El equipo de coaches te dará un tiempo sugerido e indicaciones sobre si trabajar
-  sola o en equipo. Recuerda que cada una aprende a diferente ritmo.
-* El proyecto será entregado subiendo tu código a GitHub (commit/push) y la
-  interfaz será desplegada usando GitHub pages. Si no sabes lo que es GitHub, no
-  te preocupes, lo aprenderás durante este proyecto.
-
-## 5. Criterios de aceptación mínimos del proyecto
-
-Usa solo caracteres numéricos (dígitos) en la tarjeta a validar [0-9].
 
 ### Definición del producto
 

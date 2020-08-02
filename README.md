@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src= "https://j.gifs.com/91MpD4.gif"/>
+<img align="center" alt="GIF" src= "https://j.gifs.com/91MpD4.gif"(https://emae1712.github.io/LIM013-card-validation/src/)/>
 
 
 # SafeDELIVERY 👩🏾‍💻 

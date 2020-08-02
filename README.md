@@ -1,8 +1,7 @@
-<p align="center">
-  <img width="600" height="250" src="ezgif.com-video-to-gif.gif">
-</p>
+<img align="center" alt="GIF" src= "https://j.gifs.com/91MpD4.gif"/>
 
-# Primer proyecto: SafeDELIVERY
+
+# 👩🏾‍💻 Primer proyecto: SafeDELIVERY 
 
 ## Índice
 
@@ -18,18 +17,7 @@
 
 El presente proyecto se realizó con la finalidad de recrear una página web que permita a los usuarios realizar compras online de Kits de higiene y protección ante el nuevo Covid-19. A partir de la coyuntura del presente año se ha evidenciado que el uso de mascarillas, alcohol, útiles de aseo, entre otros, es vital para evitar la propagación del virus. 
 
-El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_**, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el estado como vitales para enfrentar esta situación que afecta a la población mundial.
-
-
-En este proyecto tendrás que construir una aplicación web que le permita a un
-usuario validar el número de una tarjeta de crédito. Además, tendrás que
-implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
-los últimos cuatro.
-
-La temática es libre. Tú debes pensar en qué situaciones de la vida real se
-necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
-experiencia de uso (qué pantallas, explicaciones, mensajes, colores, ¿marca?)
-etc.
+El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_**, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el estado como vitales para enfrentar esta situación que afecta a la población mundial.🌎 
 
 ## 1. Preámbulo
 

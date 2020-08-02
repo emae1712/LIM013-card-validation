@@ -22,7 +22,7 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 ## 2. 🚀Comencemos
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
-* La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito)
+* La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito*)
 * Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875
 * El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.📝

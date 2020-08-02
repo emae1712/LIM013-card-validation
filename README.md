@@ -9,7 +9,7 @@
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [2. Comencemos](#2-comencemos)
 * [3. Procedimiento](#3-procedimiento)
-* [- Público objetivo](publico_objetivo)
+* [- Público objetivo](-publico_objetivo)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 

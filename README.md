@@ -2,18 +2,34 @@
   <img width="600" height="250" src="ezgif.com-video-to-gif.gif">
 </p>
 
-# Tarjeta de crédito válida
+# Primer proyecto: SafeDELIVERY
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 
 ***
+
+## 1. Resumen del proyecto
+
+El presente proyecto se realizó con la finalidad de recrear una página web que permita a los usuarios realizar compras online de Kits de higiene y protección ante el nuevo Covid-19. A partir de la coyuntura del presente año se ha evidenciado que el uso de mascarillas, alcohol, útiles de aseo, entre otros, es vital para evitar la propagación del virus. 
+
+El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_**, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el estado como vitales para enfrentar esta situación que afecta a la población mundial.
+
+
+En este proyecto tendrás que construir una aplicación web que le permita a un
+usuario validar el número de una tarjeta de crédito. Además, tendrás que
+implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
+los últimos cuatro.
+
+La temática es libre. Tú debes pensar en qué situaciones de la vida real se
+necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
+experiencia de uso (qué pantallas, explicaciones, mensajes, colores, ¿marca?)
+etc.
 
 ## 1. Preámbulo
 
@@ -30,17 +46,7 @@ la suma de sus dígitos finales es un múltiplo de 10.
 
 ![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
-## 2. Resumen del proyecto
 
-En este proyecto tendrás que construir una aplicación web que le permita a un
-usuario validar el número de una tarjeta de crédito. Además, tendrás que
-implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
-los últimos cuatro.
-
-La temática es libre. Tú debes pensar en qué situaciones de la vida real se
-necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
-experiencia de uso (qué pantallas, explicaciones, mensajes, colores, ¿marca?)
-etc.
 
 ## 3. Objetivos de aprendizaje
 

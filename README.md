@@ -9,7 +9,6 @@
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [2. Comencemos](#2-comencemos)
 * [3. Procedimiento](#3-procedimiento)
-* [* Público objetivo](*-publico_objetivo)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 
@@ -20,6 +19,8 @@
 El presente proyecto se realizó con la finalidad de recrear una página web que permita a los usuarios realizar compras online de **Kits de higiene y protección** ante el nuevo Covid-19. A partir de la coyuntura del presente año se ha evidenciado que el uso de mascarillas, alcohol, útiles de aseo, entre otros, es vital para evitar la propagación del virus. 
 
 El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el Estado como vitales para enfrentar esta situación que afecta a la población mundial.
+
+>IMAGEN FINAL DEL PROYECTO
 
 ## 2. 🚀Comencemos
 
@@ -43,9 +44,21 @@ Te invito a que intentes con números al azar a ver que resulta 🤓
 
 ## 3. 💻Procedimiento
 
-### * Público objetivo
+### - Público objetivo 👯
+Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponerse a interminables colas.
 
-👋🤔📫⚡⚙️💬🛠️
+>PROTOTIPO DE PAPEL
+
+### - *_Feedback_* 💬
+Al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**. Proceso que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.
+
+Se escogieron colores claros que representen el área de medicina, dando un aspecto amigable y comprometida con la salud de las personas.
+
+>PROTOTIPO FINAL
+
+
+
+👋🤔📫⚡⚙️🛠️
 
 
 Aprenderás a construir una aplicación web que interactuará

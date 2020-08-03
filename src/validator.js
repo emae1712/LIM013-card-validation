@@ -9,7 +9,7 @@ const validator = {
           total+= inverso[i]*2%10+ parseInt(inverso[i]*2/10) ;
         }else{
           total+=parseInt(inverso[i],10);
-          }; 
+          }
       }
 
       //condición para que la suma sea múltiplo de 10
@@ -27,8 +27,8 @@ const validator = {
       if (b.length<=4){
         number+= b.slice(-4);
       }else{
-        number+= b.slice(0,-4).replace(/[0-9]/g,"#") + b.slice(-4);
-        }; 
+        number+= b.slice(0,-4).replace(/[a-zA-Z0-9]/g,"#") + b.slice(-4);
+        }
     return number;
   }
 }

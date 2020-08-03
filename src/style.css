@@ -1,10 +1,12 @@
 *{
     box-sizing: border-box;
 }
+
 .error{
     border: 2px solid red;
 }
 
+/*clases que ocupan más de una etiqueta*/
 .display {
     display: block;
   }
@@ -12,19 +14,31 @@
     display: none;
 }
 
+/*cuerpo*/
 body{
     font-family: 'Roboto', sans-serif;
     background: whitesmoke;
 }
 
+/*header*/
+header img{
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+/*contiene los formularios*/
 main{
     background: #FFFFFF;
     width: 60%; /*ancho de formulario*/
     padding: 30px;
     margin: auto;
-    margin-bottom: 3%;
+    margin-top: 1%;
+    margin-bottom: 2%;
     border-radius: 2.5%;
-    border: 2px solid darkcyan;
+    border: 2px solid #00c2cb;
 }
 
 .formulario {
@@ -50,26 +64,25 @@ input[type='text'],[type='email'],[type='tel']{
 input{
     border-radius: 5px; /*borde de la casilla*/
     border: solid transparent; /*para que no tenga borde*/
-    border-bottom: 2px solid darkcyan; /*borde inferior después de border*/
+    border-bottom: 2px solid #00c2cb; /*borde inferior después de border*/
     outline: none;
 }
 
-.boton,.direccion,h2{
+.button,.direccion,h2{
     grid-column: span 2;
 } 
 
-.boton{
+.button{
     display: flex;
     width: 100%;
     justify-content: center;
 }
 
-
-.boton1{
+.boton{
     height: 60px; /*altura y altura de linea tienen el mismo valor para que vaya centrado, pero como e texto es largo line se puso la mitad*/
     line-height: 20px;
     width: 35%;
-    background: darkcyan;
+    background: #00c2cb;
     color: white;
     border-radius: 4%;
     border: none;
@@ -80,25 +93,58 @@ input{
     margin: 20px;
 }
 
-.boton1:hover{
-    background-color: black;
+.boton:hover{
+    background-color: #8c52ff;
     color: white;
 }
 
 input:valid:required {
-    border: 2px solid darkcyan;
+    border: 2px solid #00c2cb;
   }
 
+ 
 input:disabled{
-    border: 2px solid darkcyan;
+    border: 2px solid #00c2cb;
 }
 
-
-
+.cardAnimated{
+    width: 100%;
+    position: relative;
+}
+#creditCard{
+    position: absolute;
+    top: 680px;
+    left: 400px;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+#cardResult{
+    position: absolute;
+    top: 730px;
+    left: 400px;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+#nameResult{
+    position: absolute;
+    top: 800px;
+    left: 400px;
+    color: white;
+    font-weight: bold;
+}
+#expdateResult{
+    position: absolute;
+    top: 770px;
+    left: 580px;
+    color: white;
+    font-weight: bold;
+}
 /*footer*/
 footer{
     width: 100%;
-    background: lightseagreen;
+    background: #90c0ff;
     color: white;
     position: absolute;
     font-family: sans-serif;
@@ -108,8 +154,9 @@ footer{
     margin: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 50px;
-    padding: 20px;
+    gap: 10px;
+    padding: 5px;
+    font-size: 15px;
 }
 
 h1{
@@ -130,7 +177,7 @@ h1{
 }
 
 .firma{
-        background-color: darkcyan;
+        background-color: #00c2cb;
         text-align: center;
         color: rgb(237, 243, 248);
         position: absolute;

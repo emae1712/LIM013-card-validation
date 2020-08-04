@@ -22,7 +22,7 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 
 >IMAGEN FINAL DEL PROYECTO
 
-## 2. 🚀Manual de uso
+## 2. Manual de uso
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito*)

@@ -79,8 +79,7 @@ input{
 }
 
 .boton{
-    height: 60px; /*altura y altura de linea tienen el mismo valor para que vaya centrado, pero como e texto es largo line se puso la mitad*/
-    line-height: 20px;
+    height: 60px; 
     width: 35%;
     background: #00c2cb;
     color: white;
@@ -107,40 +106,48 @@ input:disabled{
     border: 2px solid #00c2cb;
 }
 
-.cardAnimated{
+.resumenCard{
+    display: inline-block;
+    position: relative;
+}
+
+.cardImg{
     width: 100%;
     position: relative;
 }
-#creditCard{
+
+#creditText{
     position: absolute;
-    top: 680px;
-    left: 400px;
+    top: 43%;
+    left: 13%;
     color: white;
-    font-size: x-large;
+    font-size: larger;
     font-weight: bold;
 }
 #cardResult{
     position: absolute;
-    top: 730px;
-    left: 400px;
-    color: white;
-    font-size: x-large;
-    font-weight: bold;
-}
-#nameResult{
-    position: absolute;
-    top: 800px;
-    left: 400px;
+    top: 50%;
+    left: 13%;
     color: white;
     font-weight: bold;
 }
 #expdateResult{
     position: absolute;
-    top: 770px;
-    left: 580px;
+    top: 53%;
+    left: 35%;
     color: white;
     font-weight: bold;
 }
+#nameResult{
+    position: absolute;
+    top: 58%;
+    left: 13%;
+    color: white;
+    font-weight: bold;
+    font-size: small;
+    background-color: #009ff3;
+}
+
 /*footer*/
 footer{
     width: 100%;

@@ -56,7 +56,6 @@
         <label for="tarjeta" class="label">Número de tarjeta</label><br>
         <input type="tel" id="tarjeta" placeholder="Ejem. 4485715860868875" name="tarjeta" pattern="[0-9]{16}" required/>
         <p id="luhmText"></p>
-        <p id="maskText"></p>
         </div>
       <!--Importe-->
         <div>
@@ -93,25 +92,28 @@
     <!-Segunda vista -->
     <div id="gracias" class="hide view" >
       <h2>Por favor verifique si los datos son correctos</h2>
-      <img class="cardAnimated"  src="img/cardAnimated.jpg">
+
+      <div class="resumenCard">
+        <img class="cardImg"  src="img/cardAnimated.jpg">
+        <p id="creditText">CREDIT CARD</p>
+        <p id="cardResult"></p>
+        <p id="expdateResult"></p>
+        <p id="nameResult"></p>
+      </div>
+
       <form >
       <!--Detalles del producto-->
         <label for="producto"><strong>Detalles de la compra</strong></label><br>
         <p>Este pequeño formulario será enviado al correo indicado. Muchas gracias por su preferencia y 
-          suscríbase para más novedades. <br> <br><i>"Protégete y protege a los demás"</i> </p>
+          suscríbase para más novedades. <br> <br><i>"Protégete y protege a los demás, quédate en casa."</i> </p>
         
-        <ul >
-        <p id="creditCard">Credit Card</p>
-        <p id="cardResult"></p>
-        <p id="nameResult"></p>
-        <p id="expdateResult"></p>
+        <ul >  
         <p><strong>Importe total: </strong>  S/. 35.00</p>
         <p id="emailResult"></p>
         <p id="adressResult"></p>
         <p id="dateResult"></p>
-        
-      
-      </ul>
+        </ul>
+
       <div class="button">
       <button type="submit" id="botonRegresar" class= "boton">REGRESAR</button><br>
       <button type="submit" id="botonEnviar" class= "boton">ENVIAR</button>

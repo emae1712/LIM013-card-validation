@@ -64,6 +64,14 @@ Se realizaron los primeros pasos en un bosquejo hecho a mano, de cómo sería nu
 <img src="https://i.ibb.co/NSCX8xd/Prototipo-papel-2.jpg" width=45% alt="Prototipo-papel-2" border="0">
    </p>
 
+>PROTOTIPO BASADO EN EL BOSQUEJO A MANO, USANDO POWER POINT
+<p align="center">
+  <img src="https://i.ibb.co/cy1R5M2/Prototipo-ppt.jpg" width=22% alt="Prototipo-ppt" border="0">
+  <img src="https://i.ibb.co/XZdGwmd/Prototipo2-ppt.jpg" width=22% alt="Prototipo2-ppt" border="0">
+  <img src="https://i.ibb.co/Xs3HM3w/Prototipo3-ppt.jpg" width=22% alt="Prototipo3-ppt" border="0">
+  <img src="https://i.ibb.co/kxTXxsX/Prototipo4-ppt.jpg" width=22% alt="Prototipo4-ppt" border="0">
+  </p>
+
 ### - *_Feedback_* 💬
 Como se aprecia en el **Prototipo de papel**, al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**🛒. Prototipo que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.
 
@@ -82,10 +90,6 @@ El presente Diagrama de flujo se realizó teniendo en cuenta los procesos ya men
 <p align="center">
 <img src="https://i.ibb.co/H4BmPhz/Flujo.png" alt="Flujo" border="0"><a target='_blank' href='https://es.imgbb.com/'>
    </p>
-
-Se escogieron colores claros que representen el área de medicina, dando un aspecto amigable y comprometida con la salud de las personas.
-
->PROTOTIPO FINAL
 
 ## 4. Herramientas usadas
 

@@ -27,13 +27,17 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito*)
 <p align="center">
-<img align="right" width="30%" src="https://i.ibb.co/Fg40kMb/Primera-vista.jpg" alt="Primera-vista" border="0">
-<img align="right" width="30%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
+<img width="40%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
   </p>
+  <p align="center">Vista previa</p>
 
 * Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875
 * El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.📝
+<p align="center">
+<img width="40%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
+  </p>
+  
 * Eso es todo **¡Gracias por su compra!** ⭐️🤝
 
 >Para el proceso de validación de **Tarjeta de crédito** se usó el [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn), también llamado algoritmo de módulo 10, es un método de suma de verificación, se utiliza para validar números de identificación; tales como el IMEI de los

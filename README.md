@@ -87,6 +87,7 @@ Durante el proceso de este primer ejercicio, el proyecto recibió muchas iteraci
 
 El presente Diagrama de flujo se realizó teniendo en cuenta los procesos ya mencionados.
 >DIAGRAMA DE FLUJO
+
 <p align="center">
 <img src="https://i.ibb.co/H4BmPhz/Flujo.png" alt="Flujo" border="0"><a target='_blank' href='https://es.imgbb.com/'>
    </p>

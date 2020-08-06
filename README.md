@@ -27,7 +27,7 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito*)
 
-<a href="https://ibb.co/Wsxd7VZ"><img src="https://i.ibb.co/7bYTBkP/Compra.jpg" alt="Compra" border="0"></a>
+<img align = "center" src="https://i.ibb.co/7bYTBkP/Compra.jpg" alt="Compra" border="0">
 
 * Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875
@@ -51,6 +51,8 @@ Te invito a que intentes con números al azar a ver que resulta 🤓
 Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y al presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponer al usuario a interminables colas.
 
 >PROTOTIPO DE PAPEL
+
+<img align = "center" src="https://i.ibb.co/H4BmPhz/Flujo.png" alt="Flujo" border="0"><a target='_blank' href='https://es.imgbb.com/'>
 
 ### - *_Feedback_* 💬
 Al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**. Prototipo que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.

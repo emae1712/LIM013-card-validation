@@ -17,9 +17,7 @@
 ## 1. 🧐Resumen del proyecto
 
 <img align="right" width="30%" src="https://i.ibb.co/7zwzmW9/Logo.jpg" alt="Logo" border="0">
-El presente proyecto se realizó con la finalidad de recrear una página web que permita a los usuarios realizar compras online de **Kits de higiene y protección** ante el nuevo Covid-19. A partir de la coyuntura del presente año se ha evidenciado que el uso de mascarillas, alcohol, útiles de aseo, entre otros, es vital para evitar la propagación del virus. 
-
-
+El presente proyecto se realizó con la finalidad de recrear una página web que permita a los usuarios realizar compras online de **Kits de higiene y protección** ante el nuevo Covid-19. A partir de la coyuntura del presente año se ha evidenciado que el uso de mascarillas, alcohol, útiles de aseo, entre otros, es vital para evitar la propagación del virus. <br><br>
 El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎, dónde se ofrece el envío de productos de higiene y protección a nivel nacional, declaradas por el Estado como vitales para enfrentar esta situación que afecta a la población mundial.
 
 ## 2. 🚀Manual de uso

@@ -23,12 +23,15 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 >IMAGEN FINAL DEL PROYECTO
 
 ## 2. 🚀Manual de uso
+<img align="right" width="30%" src="https://i.ibb.co/Fg40kMb/Primera-vista.jpg" alt="Primera-vista" border="0">
+<img align="right" width="30%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito*)
 <p align="center">
 <img src="https://i.ibb.co/7bYTBkP/Compra.jpg" alt="Compra" border="0">
 </p>
+
 * Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875
 * El botón de **Finalizar Compra** te enviará a otra ventana dónde verás el resumen de tus datos ingresados y validarás si son correctos.📝
@@ -51,7 +54,12 @@ Te invito a que intentes con números al azar a ver que resulta 🤓
 Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y al presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponer al usuario a interminables colas.
 
 >PROTOTIPO DE PAPEL
+<p align="center">
+<img src="https://i.ibb.co/m6LKpxV/Prototipo-papel-1.jpg" width=45% alt="Prototipo-papel-1" border="0">
+<img src="https://i.ibb.co/NSCX8xd/Prototipo-papel-2.jpg" width=45% alt="Prototipo-papel-2" border="0">
+   </p>
 
+>DIAGRAMA DE FLUJO
 <p align="center">
 <img src="https://i.ibb.co/H4BmPhz/Flujo.png" alt="Flujo" border="0"><a target='_blank' href='https://es.imgbb.com/'>
    </p>

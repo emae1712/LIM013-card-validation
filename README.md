@@ -107,6 +107,11 @@ En el editor de texto [Code](https://code.visualstudio.com/).
    [git](https://github.com/Laboratoria/bootcamp/tree/master/topics/scm/01-git) <br>
    [Node.js](https://nodejs.org/)<br>
    Github <br>
+   
+   **Consideraciones técnicas**
+* La lógica del proyecto está implementada completamente en JavaScript.
+* En este proyecto NO está permitido usar librerías o frameworks, sólo JavaScript puro también conocido como Vanilla JavaScript.
+* No se debe utilizar la pseudo-variable `this`.
 
 ## 5. 📚Fuentes
 

@@ -23,14 +23,13 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 >IMAGEN FINAL DEL PROYECTO
 
 ## 2. 🚀Manual de uso
-<img align="right" width="30%" src="https://i.ibb.co/Fg40kMb/Primera-vista.jpg" alt="Primera-vista" border="0">
-<img align="right" width="30%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
 
 * Primero deberás ingresar aquí 🔜 **[SafeDelivery](https://emae1712.github.io/LIM013-card-validation/src/)**
 * La página presentará el proceso de compra del producto (*en este primer proyecto nos centramos en el proceso de validadción de Tarjeta de crédito*)
 <p align="center">
-<img src="https://i.ibb.co/7bYTBkP/Compra.jpg" alt="Compra" border="0">
-</p>
+<img align="right" width="30%" src="https://i.ibb.co/Fg40kMb/Primera-vista.jpg" alt="Primera-vista" border="0">
+<img align="right" width="30%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
+  </p>
 
 * Deberás completar todos los campos indicados para poder seguir con el proceso.✍ 
 * Cuándo llegues al campo de Tarjeta de crédito, deberás ingresar un número de 16 dígitos. Ejem. 4485715860868875

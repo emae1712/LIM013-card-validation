@@ -37,7 +37,7 @@ El proyecto se rige bajo el lema **_"Protégete y protege a los demás"_** 🌎,
 <img width="40%" src="https://i.ibb.co/9Yz5PZW/Segunda-vista.jpg" alt="Segunda-vista" border="0">
   </p>
   
-* Eso es todo **¡Gracias por su compra!** ⭐️🤝
+* Una vez que valides tus datos, eso es todo **¡Gracias por su compra!** ⭐️🤝
 
 >Para el proceso de validación de **Tarjeta de crédito** se usó el [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn), también llamado algoritmo de módulo 10, es un método de suma de verificación, se utiliza para validar números de identificación; tales como el IMEI de los
 celulares, tarjetas de crédito, etc.
@@ -55,19 +55,32 @@ Te invito a que intentes con números al azar a ver que resulta 🤓
 ### - Público objetivo 👨‍👩‍👧‍👦
 Para el presente proyecto se tuvo como público objetivo a los ciudadanos del país, debido a la alta demanda de productos de higiene y protección durante el presente año y al presenciar el alza deliberada de precios, se pensó en manejar estándares acordes al mercado, teniendo al servicio de *delivery* como medio seguro para no exponer al usuario a interminables colas.
 
+### - Prototipos 👣
+Se realizaron los primeros pasos en un bosquejo hecho a mano, de cómo sería nuestra página.
 >PROTOTIPO DE PAPEL
 <p align="center">
 <img src="https://i.ibb.co/m6LKpxV/Prototipo-papel-1.jpg" width=45% alt="Prototipo-papel-1" border="0">
 <img src="https://i.ibb.co/NSCX8xd/Prototipo-papel-2.jpg" width=45% alt="Prototipo-papel-2" border="0">
    </p>
 
+### - *_Feedback_* 💬
+Como se aprecia en el **Prototipo de papel**, al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**🛒. Prototipo que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.
+
+### - Iteraciones ⚙️
+Durante el proceso de este primer ejercicio, el proyecto recibió muchas iteraciones hasta llegar a su versión final. Tomándose en cuenta principalmente:
+  * Escoger colores claros que representen el área de medicina, dando un aspecto amigable y comprometida con la salud de las personas.
+  * Mensaje de tarjeta válida o inválida apenas el usuario termine de ingresar el número de tarjeta.
+  * Mensaje de advertencia cuando se digitan más de 16 dígitos o elementos no válidos como signos y letras.
+  * Hacer el enmascaramiento debajo del input tarjeta (*en este caso se eliminó y se decidió mostrar en la siguiente vista __resumen de datos__*)
+  * Colocar en mayúsculas los inputs de nombres, apenas el usuario digite sus datos.
+  * Realizar el autollenado del campo *titular de la tarjeta* a partir de los *nombres* ingresados, dando la opción de editar en caso no sea la persona la propietaria de la tarjeta.
+  * Realizar un footer para mostrar mayores detalles del proyecto (*ya que no se hizo una página principal*)
+
+El presente Diagrama de flujo se realizó teniendo en cuenta los procesos ya mencionados.
 >DIAGRAMA DE FLUJO
 <p align="center">
 <img src="https://i.ibb.co/H4BmPhz/Flujo.png" alt="Flujo" border="0"><a target='_blank' href='https://es.imgbb.com/'>
    </p>
-
-### - *_Feedback_* 💬
-Al inicio del proyecto se realizó 4 ventanas sólo para realizar el **proceso de compra**. Prototipo que al ser presentado tanto a las *couches* como integrantes del *squad*, se redujo a tan sólo 2, para que la experiencia del usuario sea sencilla y no vea el proceso como algo tedioso o que conlleve mucho tiempo a realizar. Incluso se llevo a cabo el autollenado de los *nombres* con el *titular de la tarjeta*, dando la opción de editar en caso no sea la persona la propietaria.
 
 Se escogieron colores claros que representen el área de medicina, dando un aspecto amigable y comprometida con la salud de las personas.
 
@@ -85,7 +98,6 @@ En el editor de texto [Code](https://code.visualstudio.com/).
 
 🛠️Las nuevas herramientas usadas que sirvieron de complemento para el presente proyecto fueron:
 
-   [UNIX Shell](https://github.com/Laboratoria/bootcamp/tree/master/topics/shell)<br>
    [git](https://github.com/Laboratoria/bootcamp/tree/master/topics/scm/01-git) <br>
    [Node.js](https://nodejs.org/)<br>
    Github <br>
